@@ -12,3 +12,8 @@ body{
     text-align: center;
     padding-bottom: 45px;
 }
+
+@font-face {
+    font-family: gasalt;
+    src: url(font/Gasalt-Regular.ttf);
+}
